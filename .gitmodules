@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Zylcoffeee/Zylcoffeee.github.io.git
+	branch = main
